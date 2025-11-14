@@ -3,5 +3,3 @@ course link: https://frontendmasters.com/courses/algorithms/arrays-data-structur
 
 username: pecex60598@daypey.com
 password: BkeJ'gKwwA6#*rm
-
-courses link:https://www.state-machine.com/category/concepts
